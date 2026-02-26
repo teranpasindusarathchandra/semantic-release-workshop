@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/teranpasindusarathchandra/semantic-release-workshop/compare/v1.0.0...v1.0.1) (2026-02-26)
+
+
+### Bug Fixes
+
+* **commitlint:** add body and footer max line length rules ([3e9c0e5](https://github.com/teranpasindusarathchandra/semantic-release-workshop/commit/3e9c0e5def8a48fca59d3a201039766f66abde9b))
+
 # 1.0.0 (2026-02-26)
 
 
